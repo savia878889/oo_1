@@ -39,5 +39,6 @@
 
 ![NKUST](nkust.png "第一科大logo")
 
-[![Everything Is AWESOME](https://www.youtube.com/watch?v=HK7SPnGSxLM&list=RDHK7SPnGSxLM&start_radio=1)]
-(https://www.youtube.com/watch?v=HK7SPnGSxLM&list=RDHK7SPnGSxLM&start_radio=1 "Everything Is AWESOME")
+
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=HK7SPnGSxLM&list=RDHK7SPnGSxLM&start_radio=1)](https://www.youtube.com/watch?v=HK7SPnGSxLM&list=RDHK7SPnGSxLM&start_radio=1 "Everything Is AWESOME")
+
