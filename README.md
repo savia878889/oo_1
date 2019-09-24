@@ -39,8 +39,4 @@
 
 ![NKUST](nkust.png "第一科大logo")
 
-
-[![Won't Cry](https://www.youtube.com/watch?v=HK7SPnGSxLM&list=RDHK7SPnGSxLM&start_radio=1)](https://www.youtube.com/watch?v=HK7SPnGSxLM&list=RDHK7SPnGSxLM&start_radio=1 "Won't Cry")
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
+[![Remember Me](https://img.youtube.com/vi/_6eNDaHYDd8/0.jpg)](https://www.youtube.com/watch?v=_6eNDaHYDd8 "Remember Me")
