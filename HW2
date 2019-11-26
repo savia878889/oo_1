@@ -1,0 +1,49 @@
+
+interface Shape
+{
+  double getarea();
+}
+class Rectangle implements Shape{
+  double length;
+  double width;
+  double ans;
+  public Rectangle (double l, double w)
+ {
+     this.length=l;
+     this.width=w;
+ }
+public double getarea(){
+  ans = length*width;
+  return ans;
+ }
+public String toString(){
+return "Rectangle Area is : " +ans;
+ } 
+}
+class Triangle implements Shape{
+  double base;
+  double height;
+  double ans;
+  public Triangle(double base, double height)
+  {
+    this.base = base;
+    this.height = height;
+  }
+  public double getarea(){
+    ans = (base*height)/2;
+    return ans;
+  }
+  public String toString(){
+    return "Triangle Area is:" +ans;
+  }
+}
+class Main{
+  public static void main(String[] args){
+    Triangle tri = new Triangle(10, 10);
+    Rectangle rec = new Rectangle(10, 10);
+    tri.getarea();
+    rec.getarea();
+    System.out.println(tri.toString());
+    System.out.println(rec.toString());
+  }
+}
